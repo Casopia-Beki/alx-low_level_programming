@@ -2,7 +2,7 @@
 
 
 /**
- * main - prints "Programming is like building a multilingual puzzle
+ * main - Entry
  *
  * Retun: Always 0
  */
