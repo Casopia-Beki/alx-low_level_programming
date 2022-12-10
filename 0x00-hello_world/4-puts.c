@@ -1,14 +1,12 @@
 #include <stdio.h>
 
-
-/*
- * main - Entry
+/**
+ * main -Print a line of code using puts
  *
- * Retun: Always 0
+ * Retun: 0
  */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
-}	
+}
