@@ -9,14 +9,15 @@
  */
 int main(void)
 {
-	char lc;
+	int ch = 'a';
 
-	for (lc = 'a'; lc <= 'z'; lc++)
-
+	while (ch <= 'z')
 	{
-		putchar(lc);
+		putchar(ch);
+		ch++;
 	}
-
 	putchar('\n');
-	Return(0);
+	return (0);
+
+
 }
