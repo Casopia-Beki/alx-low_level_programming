@@ -1,6 +1,14 @@
 #include <stdio.h>
 
-
+/**
+ *main - Entry point
+ *
+ *Add one line to this code
+ *print a[2] = 98, followed by a new line.
+ *
+ *Return: Always 0 (Success)
+ */
+int main(void)
 {
 	int n;
 	int a[5];
