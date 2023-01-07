@@ -3,12 +3,10 @@
 	#include <ctype.h>
 	#include <string.h>
 	/**
-	 * check_num - check - string there are digit
-	 * @str: array str
-	 *
+	 * main - string there are digit
 	 * Return: Always 0 (Success)
 	 */
-int check_num(char *str)
+	int main(void)
 	{
 		/*Declaring variables*/
 		unsigned int count;
@@ -81,5 +79,4 @@ int check_num(char *str)
 
 		return (0);
 	}
-
 
