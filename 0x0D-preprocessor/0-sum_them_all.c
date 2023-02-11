@@ -10,7 +10,7 @@
 	 * Return: If n == 0 - 0.
 	 *         Otherwise - the sum of all parameters.
 	 */
-	sum_them_all void(const unsigned int n, ...)
+	void sum_them_all(const unsigned int n, ...)
 	{
 		va_list ap;
 		unsigned int i, sum = 0;
